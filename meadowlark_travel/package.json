@@ -1,0 +1,24 @@
+{
+  "name": "meadowlark_travel",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spleen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "grunt": "^0.4.5",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-exec": "^0.4.6",
+    "mocha": "^2.3.4",
+    "zombie": "^4.2.1"
+  }
+}
